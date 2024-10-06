@@ -1,0 +1,19 @@
+{
+    "name": "vendor/mainadespachante",
+    "description": "Site da Empresa Maina Despachante",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Mainadespachante\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Julio",
+            "email": "rafael.julio@tmh.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
