@@ -868,6 +868,7 @@ section,
   margin-bottom: 0;
   position: relative;
   z-index: 2;
+  padding: 10px !important;
 }
 
 @media (max-width: 575px) {
